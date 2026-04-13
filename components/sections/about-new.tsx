@@ -35,7 +35,7 @@ export default function AboutNew() {
             {/* Stats */}
             <div className="grid grid-cols-3 gap-6 py-6 animate-fade-in-up" style={{animationDelay: '0.3s'}}>
               <div className="text-center p-4 bg-card/50 border border-border rounded-lg hover:bg-card transition-all hover:scale-105 hover:shadow-lg hover:scale-105 hover:shadow-lg animate-fade-in-up" style={{animationDelay: '0.4s'}}>
-                <p className="text-3xl font-bold text-accent">2+</p>
+                <p className="text-3xl font-bold text-accent">12+</p>
                 <p className="text-sm text-muted-foreground mt-2">Ad Platforms</p>
               </div>
               <div className="text-center p-4 bg-card/50 border border-border rounded-lg hover:bg-card transition-all hover:scale-105 hover:shadow-lg animate-fade-in-up" style={{animationDelay: '0.5s'}}>
